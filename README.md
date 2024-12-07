@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming involving the comparison of floating-point numbers.  The `bug.hs` file shows code that incorrectly uses `==` to compare floating-point values, leading to an unexpected result. The `bugSolution.hs` file provides a corrected version using a tolerance-based comparison to account for floating-point imprecision.
